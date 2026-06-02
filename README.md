@@ -2,16 +2,21 @@
 
 **Desenvolvedor Full Stack Junior com foco principal em Back-end.**
 
-Atuo na construcao de APIs REST, aplicacoes web e integracoes entre frontend, backend e banco de dados. Tenho pratica com autenticacao, autorizacao, regras de negocio, modelagem de entidades, persistencia de dados, documentacao de endpoints e consumo de APIs no frontend.
-
-Meus projetos buscam demonstrar organizacao de codigo, clareza tecnica e entregas funcionais voltadas para cenarios reais de negocio. Atualmente busco oportunidades como **Desenvolvedor Backend Junior** ou **Desenvolvedor Full Stack Junior**, com foco em APIs, servicos, manutencao evolutiva e desenvolvimento de funcionalidades end-to-end.
+Construo APIs REST, aplicacoes web e integracoes entre backend, banco de dados e frontend. Meus projetos atuais demonstram autenticacao, autorizacao, regras de negocio, persistencia relacional, documentacao tecnica, testes e ambientes reproduziveis com Docker.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-pedro--loubach-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-loubach)
 [![GitHub](https://img.shields.io/badge/GitHub-Kinu1-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kinu1)
 
-## Tecnologias
+## Sobre mim
 
-### Back-end
+- Foco em desenvolvimento **Backend Junior** e **Full Stack Junior**.
+- Experiencia pratica com APIs REST, CRUDs, autenticacao JWT, controle de acesso e documentacao Swagger/OpenAPI.
+- Projetos com C#/.NET, ASP.NET Core, Node.js, NestJS, TypeScript, React, PostgreSQL, SQLite, Entity Framework Core e Prisma ORM.
+- Interesse em manutencao evolutiva, implementacao de funcionalidades, integracao de sistemas e organizacao de codigo.
+
+## Stack principal
+
+### Back-end e APIs
 
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
@@ -27,38 +32,37 @@ Meus projetos buscam demonstrar organizacao de codigo, clareza tecnica e entrega
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-### Banco de dados, ORM e ferramentas
+### Banco de dados, ORM, testes e ferramentas
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![Entity Framework Core](https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=000)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![xUnit](https://img.shields.io/badge/xUnit-5A2D82?style=flat-square)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ## Projetos em destaque
 
-| Projeto | Stack | Destaques |
+| Projeto | O que demonstra | Stack |
 | --- | --- | --- |
-| [FinanceFlow](https://github.com/Kinu1/finance-flow) | ASP.NET Core 8, PostgreSQL, JWT, CQRS | Backend financeiro com autenticacao, refresh token, transacoes, auditoria e arquitetura em camadas. |
-| [Inventory Control API](https://github.com/Kinu1/inventory-control-api) | NestJS, Prisma, PostgreSQL, Docker | API B2B para controle de estoque com roles, seed demo, Swagger, testes e CI. |
-| [E-commerce API](https://github.com/Kinu1/e-commerce-api) | NestJS, Prisma, JWT | API de e-commerce com autenticacao, roles, catalogo, carrinho e pedidos. |
-| [Academia Manager](https://github.com/Kinu1/academia-manager) | TypeScript, React, API | Sistema para gestao de academia com fluxo de autenticacao e telas administrativas. |
-| [Support Desk API](https://github.com/Kinu1/support-desk-api) | TypeScript, NestJS | API para atendimento e organizacao de chamados, com foco em regras de negocio e estrutura backend. |
+| [FinanceFlow](https://github.com/Kinu1/finance-flow) | API financeira com autenticacao, refresh token, transacoes, dashboard, relatorio CSV, auditoria, testes automatizados e Docker. | ASP.NET Core 8, EF Core, PostgreSQL, JWT, CQRS, xUnit |
+| [Inventory Control API](https://github.com/Kinu1/inventory-control-api) | Controle de estoque B2B com roles, produtos, fornecedores, movimentacoes, dashboard, seed demo, Swagger, testes e CI. | NestJS, TypeScript, Prisma, PostgreSQL, Docker, Jest |
+| [E-commerce API](https://github.com/Kinu1/e-commerce-api) | API de loja virtual com autenticacao, roles, catalogo, carrinho, pedidos, pagamento simulado, auditoria e Swagger. | NestJS, Prisma, PostgreSQL/Supabase, JWT, Jest |
+| [Academia Manager](https://github.com/Kinu1/academia-manager) | Sistema para gestao de academia com telas administrativas, autenticacao e integracao com API. | TypeScript, React |
+| [TaskManagerAPI](https://github.com/Kinu1/TaskManagerAPI) | API de tarefas em C#, demonstrando fundamentos de backend, rotas e persistencia. | C#, .NET |
 
-## O que estou buscando
+## Como posso contribuir
 
-Estou em busca de oportunidades como **Desenvolvedor Backend Junior** ou **Desenvolvedor Full Stack Junior**, contribuindo com:
+- Desenvolver e manter APIs REST com regras de negocio claras.
+- Integrar backend com banco de dados relacional e frontend.
+- Implementar autenticacao, autorizacao e protecao de rotas.
+- Criar documentacao tecnica com Swagger/OpenAPI.
+- Escrever testes e organizar projetos para facilitar manutencao.
+- Evoluir funcionalidades existentes com Git, revisao de codigo e boas praticas.
 
-- Desenvolvimento de APIs REST com C#/.NET ou Node.js/NestJS.
-- Modelagem de dados e integracao com PostgreSQL.
-- Autenticacao, autorizacao, JWT e controle de acesso por perfis.
-- Documentacao tecnica com Swagger/OpenAPI.
-- Organizacao de codigo, versionamento com Git e boas praticas de entrega.
+## Objetivo atual
 
-## Foco atual
-
-- Back-end com **C#/.NET**, **ASP.NET Core**, **Node.js** e **NestJS**.
-- APIs REST com autenticacao, autorizacao, regras de negocio e documentacao tecnica.
-- Bancos relacionais com **PostgreSQL**, **SQLite**, **Entity Framework Core** e **Prisma ORM**.
-- Projetos de portfolio com estrutura profissional, testes, Docker e Swagger/OpenAPI.
+Busco oportunidades como **Desenvolvedor Backend Junior** ou **Desenvolvedor Full Stack Junior**, contribuindo na construcao de APIs, servicos e aplicacoes web com entregas consistentes e alinhadas as necessidades do negocio.
