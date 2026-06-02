@@ -1,8 +1,10 @@
 # Pedro Loubach
 
-**Desenvolvedor Junior com base Full Stack e foco principal em Back-end.**
+**Desenvolvedor Full Stack Junior com foco principal em Back-end.**
 
-Estou construindo projetos de portfolio voltados para APIs REST, autenticacao, regras de negocio, banco de dados e documentacao tecnica. Meu foco atual e criar solucoes backend com estrutura profissional, testes, Docker, Swagger/OpenAPI e boas praticas para que recrutadores e times tecnicos consigam avaliar o codigo com clareza.
+Atuo na construcao de APIs REST, aplicacoes web e integracoes entre frontend, backend e banco de dados. Tenho pratica com autenticacao, autorizacao, regras de negocio, modelagem de entidades, persistencia de dados, documentacao de endpoints e consumo de APIs no frontend.
+
+Meus projetos buscam demonstrar organizacao de codigo, clareza tecnica e entregas funcionais voltadas para cenarios reais de negocio. Atualmente busco oportunidades como **Desenvolvedor Backend Junior** ou **Desenvolvedor Full Stack Junior**, com foco em APIs, servicos, manutencao evolutiva e desenvolvimento de funcionalidades end-to-end.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-pedro--loubach-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-loubach)
 [![GitHub](https://img.shields.io/badge/GitHub-Kinu1-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kinu1)
