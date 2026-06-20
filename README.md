@@ -1,18 +1,18 @@
 # Pedro Loubach
 
-**Desenvolvedor Full Stack Junior com foco principal em Back-end.**
+**Desenvolvedor Full Stack Júnior com foco principal em Back-end.**
 
-Construo APIs REST, aplicacoes web e integracoes entre backend, banco de dados e frontend. Meus projetos atuais demonstram autenticacao, autorizacao, regras de negocio, persistencia relacional, documentacao tecnica, testes e ambientes reproduziveis com Docker.
+Construo APIs REST, aplicações web e integrações entre backend, banco de dados e frontend. Meus projetos atuais demonstram autenticação, autorização, regras de negócio, persistência relacional, documentação técnica, testes e ambientes reproduzíveis com Docker.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-pedro--loubach-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-loubach)
 [![GitHub](https://img.shields.io/badge/GitHub-Kinu1-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kinu1)
 
 ## Sobre mim
 
-- Foco em desenvolvimento **Backend Junior** e **Full Stack Junior**.
-- Experiencia pratica com APIs REST, CRUDs, autenticacao JWT, controle de acesso e documentacao Swagger/OpenAPI.
+- Foco em desenvolvimento **Backend Júnior** e **Full Stack Júnior**.
+- Experiência prática com APIs REST, CRUDs, autenticação JWT, controle de acesso e documentação Swagger/OpenAPI.
 - Projetos com C#/.NET, ASP.NET Core, Node.js, NestJS, TypeScript, React, PostgreSQL, SQLite, Entity Framework Core e Prisma ORM.
-- Interesse em manutencao evolutiva, implementacao de funcionalidades, integracao de sistemas e organizacao de codigo.
+- Interesse em manutenção evolutiva, implementação de funcionalidades, integração de sistemas e organização de código.
 
 ## Stack principal
 
@@ -48,21 +48,21 @@ Construo APIs REST, aplicacoes web e integracoes entre backend, banco de dados e
 
 | Projeto | O que demonstra | Stack |
 | --- | --- | --- |
-| [FinanceFlow](https://github.com/Kinu1/finance-flow) | API financeira com autenticacao, refresh token, transacoes, dashboard, relatorio CSV, auditoria, testes automatizados e Docker. | ASP.NET Core 8, EF Core, PostgreSQL, JWT, CQRS, xUnit |
-| [Inventory Control API](https://github.com/Kinu1/inventory-control-api) | Controle de estoque B2B com roles, produtos, fornecedores, movimentacoes, dashboard, seed demo, Swagger, testes e CI. | NestJS, TypeScript, Prisma, PostgreSQL, Docker, Jest |
-| [E-commerce API](https://github.com/Kinu1/e-commerce-api) | API de loja virtual com autenticacao, roles, catalogo, carrinho, pedidos, pagamento simulado, auditoria e Swagger. | NestJS, Prisma, PostgreSQL/Supabase, JWT, Jest |
-| [Academia Manager](https://github.com/Kinu1/academia-manager) | Sistema para gestao de academia com telas administrativas, autenticacao e integracao com API. | TypeScript, React |
-| [TaskManagerAPI](https://github.com/Kinu1/TaskManagerAPI) | API de tarefas em C#, demonstrando fundamentos de backend, rotas e persistencia. | C#, .NET |
+| [FinanceFlow](https://github.com/Kinu1/finance-flow) | API financeira com autenticação, refresh token, transações, dashboard, relatório CSV, auditoria, testes automatizados e Docker. | ASP.NET Core 8, EF Core, PostgreSQL, JWT, CQRS, xUnit |
+| [Inventory Control API](https://github.com/Kinu1/inventory-control-api) | Controle de estoque B2B com roles, produtos, fornecedores, movimentações, dashboard, seed demo, Swagger, testes e CI. | NestJS, TypeScript, Prisma, PostgreSQL, Docker, Jest |
+| [E-commerce API](https://github.com/Kinu1/e-commerce-api) | API de loja virtual com autenticação, roles, catálogo, carrinho, pedidos, pagamento simulado, auditoria e Swagger. | NestJS, Prisma, PostgreSQL/Supabase, JWT, Jest |
+| [Academia Manager](https://github.com/Kinu1/academia-manager) | Sistema para gestão de academia com telas administrativas, autenticação e integração com API. | TypeScript, React |
+| [TaskManagerAPI](https://github.com/Kinu1/TaskManagerAPI) | API de tarefas em C#, demonstrando fundamentos de backend, rotas e persistência. | C#, .NET |
 
 ## Como posso contribuir
 
-- Desenvolver e manter APIs REST com regras de negocio claras.
+- Desenvolver e manter APIs REST com regras de negócio claras.
 - Integrar backend com banco de dados relacional e frontend.
-- Implementar autenticacao, autorizacao e protecao de rotas.
-- Criar documentacao tecnica com Swagger/OpenAPI.
-- Escrever testes e organizar projetos para facilitar manutencao.
-- Evoluir funcionalidades existentes com Git, revisao de codigo e boas praticas.
+- Implementar autenticação, autorização e proteção de rotas.
+- Criar documentação técnica com Swagger/OpenAPI.
+- Escrever testes e organizar projetos para facilitar manutenção.
+- Evoluir funcionalidades existentes com Git, revisão de código e boas práticas.
 
 ## Objetivo atual
 
-Busco oportunidades como **Desenvolvedor Backend Junior** ou **Desenvolvedor Full Stack Junior**, contribuindo na construcao de APIs, servicos e aplicacoes web com entregas consistentes e alinhadas as necessidades do negocio.
+Busco oportunidades como **Desenvolvedor Backend Júnior** ou **Desenvolvedor Full Stack Júnior**, contribuindo na construção de APIs, serviços e aplicações web com entregas consistentes e alinhadas às necessidades do negócio.
