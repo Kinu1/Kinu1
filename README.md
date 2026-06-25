@@ -9,7 +9,7 @@ Construo APIs REST, aplicações web e integrações entre backend, banco de dad
 
 ## Sobre mim
 
-- Foco em desenvolvimento **Backend Júnior** e **Full Stack Júnior**.
+- Atuo com foco em desenvolvimento back-end, criando APIs REST, integrações com bancos de dados e aplicações web com boas práticas de organização, autenticação e documentação.
 - Experiência prática com APIs REST, CRUDs, autenticação JWT, controle de acesso e documentação Swagger/OpenAPI.
 - Projetos com C#/.NET, ASP.NET Core, Node.js, NestJS, TypeScript, React, PostgreSQL, SQLite, Entity Framework Core e Prisma ORM.
 - Interesse em manutenção evolutiva, implementação de funcionalidades, integração de sistemas e organização de código.
