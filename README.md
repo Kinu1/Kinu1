@@ -1,6 +1,6 @@
 # Pedro Loubach
 
-**Desenvolvedor Full Stack Júnior com foco principal em Back-end.**
+**Desenvolvedor Full Stack com foco principal em Back-end.**
 
 Construo APIs REST, aplicações web e integrações entre backend, banco de dados e frontend. Meus projetos atuais demonstram autenticação, autorização, regras de negócio, persistência relacional, documentação técnica, testes e ambientes reproduzíveis com Docker.
 
@@ -66,4 +66,4 @@ Construo APIs REST, aplicações web e integrações entre backend, banco de dad
 
 ## Objetivo atual
 
-Busco oportunidades como **Desenvolvedor Backend Júnior** ou **Desenvolvedor Full Stack Júnior**, contribuindo na construção de APIs, serviços e aplicações web com entregas consistentes e alinhadas às necessidades do negócio.
+Busco oportunidades como **Desenvolvedor Backend ** ou **Desenvolvedor Full Stack **, contribuindo na construção de APIs, serviços e aplicações web com entregas consistentes e alinhadas às necessidades do negócio.
