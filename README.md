@@ -79,11 +79,12 @@ As descrições correspondem ao escopo dos repositórios. Instruções de execu�
 
 ## Como posso contribuir
 
-- Implementar funcionalidades que envolvem interface, regras de negócio e persistência de dados.
-- Desenvolver telas com formulários, filtros e feedback para carregamento, erros e operações concluídas.
-- Construir e integrar APIs REST, incluindo autenticação, permissões e serviços externos.
-- Investigar problemas, corrigir comportamentos e escrever testes para os cenários implementados.
-- Documentar endpoints e configurar ambientes locais para facilitar execução e manutenção.
+- Desenvolver interfaces com React e TypeScript, conectando formulários, filtros e indicadores às operações da aplicação.
+- Construir APIs REST em C#/.NET e Node.js/NestJS, implementando regras de negócio e persistência em bancos relacionais.
+- Implementar autenticação e permissões para controlar o acesso às funcionalidades e aos dados.
+- Integrar serviços externos e tratar atualizações de status, notificações repetidas e falhas de comunicação.
+- Investigar problemas e escrever testes automatizados para verificar os comportamentos envolvidos.
+- Documentar APIs e configurar ambientes locais e verificações automatizadas para facilitar a execução e a manutenção.
 
 ## Objetivo atual
 
